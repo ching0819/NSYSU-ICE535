@@ -22,3 +22,7 @@
     * 調正 regularization parameters 並討論其影響
 
 * [week05](https://github.com/ching0819/my-library/blob/master/NSYSU%20ICE535/week05.ipynb) **類神經網路**:
+    * 自己撰寫程式碼實現分類手寫數字
+    * 用 feedforward propagation 與 backpropagation 來學習NN的參數
+    * 調正 hyper parameters 並討論其影響
+    
